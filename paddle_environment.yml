@@ -3,6 +3,9 @@ channels:
   - paddle
   - psi4
   - defaults
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
 dependencies:
   - ambit=0.5.1=he7184a3_1
   - appnope=0.1.2=py39hecd8cb5_1001
